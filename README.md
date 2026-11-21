@@ -11,9 +11,9 @@ It highlights the identified problem, proposed solution, innovative approach and
 Project Information
 
 - Event: Smart India Hackathon (SIH)
-- Project Title: [Enter Your Project Title]
-- Domain: [Enter Your Domain]
-- Team: [Enter Your Team Name]
+- Project Title: Skyguard AI
+- Domain: Disaster management 
+- Team: Hacksmiths 
 
 Key Contents
 
